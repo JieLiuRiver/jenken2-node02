@@ -1,9 +1,9 @@
 FROM node
 
-MAINTAINER Ryze <hz.bgning@gmail.com>
+MAINTAINER Ryze <268079@163.com>
 
 
-WORKDIR /home/project
+WORKDIR /www2/project
 
 EXPOSE 3000
 
